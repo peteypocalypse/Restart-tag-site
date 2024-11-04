@@ -1,0 +1,30 @@
+body {
+background-color: rgb(0, 183, 255);
+}
+div {
+color: rgb(0, 0, 0);
+font-family: cursive;
+}
+p {
+font-family: cursive;
+font-size: 17px;
+color: rgb(0, 0, 0);
+}
+header {
+font-family: cursive;
+}
+marquee {
+color: black;
+font-family: cursive;
+}
+a {
+font-family: cursive;
+color: black;
+}
+h1 {
+color: black;
+font-family: cursive;
+}
+footer {
+background-color: transparent;
+}
